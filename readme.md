@@ -1,6 +1,6 @@
 # School Library System
 
-School Library System The School Library System with Source Code is a Python program where you can manage the issuing of books for the student.  
+The School Library System is a Python program where you can manage the issuing of books for the student.  
 The purpose of the system is to efficiently transact of issuing books for student and monitor the total return of books.  
 The project was created in a GUI application called tkinter module it is a design interface for a user-friendly environment.  
 The user can only accessed the system by entering a confidential login information. The user can do many things in the system such as registering student, adding new books, issuing books for student, removing penalty, returning books and renewing books.  
